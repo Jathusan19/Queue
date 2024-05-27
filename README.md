@@ -1,6 +1,6 @@
 
 
-### README File for GitHub Repository Deque
+### README File for GitHub Repository Queue
 
 
 
