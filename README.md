@@ -1,42 +1,8 @@
 # Queue
-It looks like you've provided the Java source files and their compiled class files for a Deque project. To run the project, ensure you have the necessary files and use the appropriate Java commands. Here is a step-by-step guide to compile and run your Java project.
-
-1. **Ensure the Java Development Kit (JDK) is installed** on your machine. You can check this by running `java -version` and `javac -version` in your terminal.
-
-2. **Compile the Java source files**:
-   - Open your terminal.
-   - Navigate to the directory containing the Java source files (`Deque.java` and `Main.java`).
-
-   ```sh
-   cd path/to/your/files
-   ```
-
-   - Compile the source files:
-
-   ```sh
-   javac Deque.java Main.java
-   ```
-
-3. **Run the compiled Java application**:
-   - Run the `Main` class, which should contain the `main` method:
-
-   ```sh
-   java Main
-   ```
-
-If there are any issues, such as missing the `main` method, ensure that the `Main` class includes a method defined as follows:
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        // Your code here
-    }
-}
-```
 
 ### README File for GitHub Repository
 
-Here is a sample README file for your GitHub repository, assuming it contains the `Deque` project.
+
 
 ```markdown
 # Deque Project
